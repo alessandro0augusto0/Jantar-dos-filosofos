@@ -33,9 +33,6 @@ A tela inicial apresenta um botão **Start** para iniciar a simulação. Ao clic
   <img src="https://github.com/user-attachments/assets/d2acae21-66f1-42cf-8068-c058de4a7c18" alt="Tela de Execução">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e1825156-643f-453f-8423-2ab1e384a244" alt="Tela de Execução">
-</p>
-<p align="center">
   <img src="https://github.com/user-attachments/assets/ffa4e7ba-b024-47d1-9388-cfbee6e89328" alt="Tela de Execução">
 </p>
 
