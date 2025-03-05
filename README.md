@@ -17,17 +17,27 @@ Neste projeto, os magos são representados visualmente, e você pode acompanhar 
 ## 🖼️ Interface Gráfica
 
 ### Tela Inicial
-![Tela Inicial](https://github.com/user-attachments/assets/55c877b3-5d30-4df9-b7a3-6002f67837c5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55c877b3-5d30-4df9-b7a3-6002f67837c5" alt="Tela Inicial">
+</p>
 
 A tela inicial apresenta um botão **Start** para iniciar a simulação. Ao clicar, você é levado para a tela de execução, onde os magos começam a pensar e comer.
 
 ---
 
 ### Tela de Execução
-![Tela de Execução](https://github.com/user-attachments/assets/80678b01-e9bd-445c-92c2-f877cef10a4a)
-![Tela de Execução](https://github.com/user-attachments/assets/d2acae21-66f1-42cf-8068-c058de4a7c18)
-![Tela de Execução](https://github.com/user-attachments/assets/e1825156-643f-453f-8423-2ab1e384a244)
-![Tela de Execução](https://github.com/user-attachments/assets/ffa4e7ba-b024-47d1-9388-cfbee6e89328)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80678b01-e9bd-445c-92c2-f877cef10a4a" alt="Tela de Execução">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2acae21-66f1-42cf-8068-c058de4a7c18" alt="Tela de Execução">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1825156-643f-453f-8423-2ab1e384a244" alt="Tela de Execução">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffa4e7ba-b024-47d1-9388-cfbee6e89328" alt="Tela de Execução">
+</p>
 
 Na tela de execução, os magos são representados por imagens que mudam conforme suas ações:
 - **Pensando**: O mago está refletindo.
@@ -38,11 +48,14 @@ Para interagir com a simulação, passe o cursor do mouse sobre **"O Um Anel"** 
 ---
 
 ### Tela de Resultados
-![Tela de Resultados](https://github.com/user-attachments/assets/ffc550df-14bb-4846-b134-75dac03a4841)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffc550df-14bb-4846-b134-75dac03a4841" alt="Tela de Resultados">
+</p>
 
 Ao clicar em **Parar**, a simulação é interrompida, e uma tela de resultados é exibida. Aqui, você pode ver quantas vezes cada mago comeu, o tempo médio de espera e o tempo máximo de espera.
 
 ---
+
 
 ## 🖥️ Terminal
 
