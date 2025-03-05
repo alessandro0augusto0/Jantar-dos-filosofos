@@ -1,4 +1,4 @@
-# Jantar dos Filósofos - Os 5 Magos de O Senhor dos Anéis 🧙‍♂️
+# Jantar dos Filósofos - Os 5 Magos 🧙‍♂️
 
 Bem-vindo ao repositório do **Jantar dos Filósofos**, uma simulação visual e interativa do clássico problema de concorrência em sistemas operacionais, com um toque mágico inspirado na trilogia **O Senhor dos Anéis**! Aqui, os filósofos são representados pelos 5 magos: **Saruman**, **Gandalf**, **Radagast**, **Alatar** e **Pallando**.
 
